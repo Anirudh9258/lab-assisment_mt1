@@ -1,0 +1,14 @@
+ {
+  "name": "mt1-labexam",
+  "version": "1.0.0",
+  "description": "Library Book Management System",
+  "type": "module",
+  "main": "expressApp.js",
+  "scripts": {
+    "http": "node httpServer.js",
+    "api": "node expressApp.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
